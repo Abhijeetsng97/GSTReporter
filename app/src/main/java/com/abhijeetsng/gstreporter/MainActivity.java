@@ -1,4 +1,4 @@
-package com.abhijeetsng.gstrepoter;
+package com.abhijeetsng.gstreporter;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
 
-        }, 5*1000);
+        }, 1*1000);
     }
 }

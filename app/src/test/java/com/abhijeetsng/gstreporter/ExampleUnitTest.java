@@ -1,4 +1,4 @@
-package com.abhijeetsng.gstrepoter;
+package com.abhijeetsng.gstreporter;
 
 import org.junit.Test;
 

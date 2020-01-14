@@ -1,4 +1,4 @@
-package com.abhijeetsng.gstrepoter;
+package com.abhijeetsng.gstreporter;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.abhijeetsng.gstrepoter", appContext.getPackageName());
+        assertEquals("com.abhijeetsng.gstreporter", appContext.getPackageName());
     }
 }
