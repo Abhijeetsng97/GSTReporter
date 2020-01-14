@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "812503910909",
-    "firebase_url": "https://gst-repoter.firebaseio.com",
-    "project_id": "gst-repoter",
-    "storage_bucket": "gst-repoter.appspot.com"
+    "project_number": "568589147057",
+    "firebase_url": "https://gstreporter-6db56.firebaseio.com",
+    "project_id": "gstreporter-6db56",
+    "storage_bucket": "gstreporter-6db56.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:812503910909:android:91335f528c151b0183b194",
+        "mobilesdk_app_id": "1:568589147057:android:13a3707612b4f82905fb90",
         "android_client_info": {
-          "package_name": "com.abhijeetsng.gstrepoter"
+          "package_name": "com.abhijeetsng.gstreporter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "812503910909-jqaop12qahu1va5m6ellpd4kgcnbau26.apps.googleusercontent.com",
+          "client_id": "568589147057-efclusf2gap6ed0uge1nc5ru4ccnqo48.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.abhijeetsng.gstrepoter",
+            "package_name": "com.abhijeetsng.gstreporter",
             "certificate_hash": "1ef5f6b4de16f49f53f1316f013bb042f44128c8"
           }
         },
         {
-          "client_id": "812503910909-8qes9omlubd6tbikc6jomheldaglrr2s.apps.googleusercontent.com",
+          "client_id": "568589147057-9i7pcgfnc1jl9lbvpmm1lh3svb4begmg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCzhEoYLFln0K8722zemejwPNfKhhrJMGg"
+          "current_key": "AIzaSyCNYtFQ-4mVd-96iyuk6rDPBYGvpS6FtzY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "812503910909-8qes9omlubd6tbikc6jomheldaglrr2s.apps.googleusercontent.com",
+              "client_id": "568589147057-9i7pcgfnc1jl9lbvpmm1lh3svb4begmg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
